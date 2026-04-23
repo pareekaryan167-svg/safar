@@ -1,0 +1,29 @@
+.footer {
+background: #020617;
+color: #94a3b8;
+text-align: center;
+padding: 40px 20px 25px;
+margin-top: 60px;
+border-top: 1px solid rgba(255,255,255,0.08);
+}
+
+.footer-title {
+color: #38bdf8;
+margin-bottom: 8px;
+}
+
+.footer-tagline {
+font-size: 0.95rem;
+margin-bottom: 10px;
+}
+
+.footer-love {
+font-size: 0.9rem;
+margin-bottom: 15px;
+color: #cbd5f5;
+}
+
+.footer-bottom {
+font-size: 0.8rem;
+opacity: 0.6;
+}
