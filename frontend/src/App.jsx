@@ -18,7 +18,7 @@ function App() {
         <Route path="/dashboard" element={<Dashboard />} />
         <Route path="/new-trip" element={<NewTrip />} />
         <Route path="/destination/:name" element={<Destination />} />
-        <Route path="/profile" element={<Profile />} />
+        <Route path="/Profile" element={<Profile />} />
 
 
       </Routes>

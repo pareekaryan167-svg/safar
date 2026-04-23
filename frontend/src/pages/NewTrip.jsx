@@ -41,7 +41,7 @@ function NewTrip() {
     console.log("Submitting form:");
 
     try {
-      const res = await fetch("http://localhost:5005/submit-trip", {
+      const res = await fetch("https://safar-za5m.onrender.com/submit-trip", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
